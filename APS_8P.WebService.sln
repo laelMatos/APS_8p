@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APS_8P.WebService", "APS_8P.WebService\APS_8P.WebService.csproj", "{940AF77C-0F59-44A2-B84A-5A2DF4CAEDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940AF77C-0F59-44A2-B84A-5A2DF4CAEDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940AF77C-0F59-44A2-B84A-5A2DF4CAEDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940AF77C-0F59-44A2-B84A-5A2DF4CAEDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940AF77C-0F59-44A2-B84A-5A2DF4CAEDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6343E80-60FF-49EE-8B80-07FC86FA431D}
+	EndGlobalSection
+EndGlobal
